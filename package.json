@@ -1,0 +1,9 @@
+{
+    "name": "blanktabmultivariatetestaddon", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "BlankTabMultivariateTestAddon", 
+    "id": "blankTabMultiTest.TestPilot", 
+    "description": "An add-on serving for Test Pilot blank tab multivariate test, including several different displays of suggested sites on new tab page"
+}
