@@ -1,5 +1,1 @@
-This is the BlankTabMultivariateTestAddon add-on.  It contains:
-
-* A program (lib/main.js).
-* A few tests.
-* Some meager documentation.
+This is the Blank Tab Multivariate Test add-on.
