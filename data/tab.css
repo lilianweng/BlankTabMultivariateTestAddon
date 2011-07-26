@@ -43,7 +43,11 @@
   padding-right: 10px;
 }
 
-#header {
+#page-wrap-newblanktabtestaddonthing {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#page-wrap-newblanktabtestaddonthing #header {
   margin-left: auto;
   margin-right: auto;
   width: 700px;
@@ -51,18 +55,14 @@
   color: #777;
 }
 
-#content {
+#page-wrap-newblanktabtestaddonthing #content {
+  line-height: 1.6em;
   margin-left: auto;
   margin-right: auto;
   width: 700px;
 }
 
-body {
-  line-height: 1.6em;
-  font-family: Helvetica, Arial, sans-serif;
-}
-
-h1 {
+#page-wrap-newblanktabtestaddonthing h1 {
   font-family: "Lucida Grande",Sans-Serif;
   font-size: 15px;
   margin: 0px;
@@ -70,26 +70,21 @@ h1 {
   color:#333;
   text-decoration: none;
 }
-#header a{
+#page-wrap-newblanktabtestaddonthing #header a{
   color:#333;
   text-decoration: none;
 }
-#header a:hover{
+#page-wrap-newblanktabtestaddonthing #header a:hover{
   color: #777;
 }
 
-a.clean {
+#page-wrap-newblanktabtestaddonthing a.clean {
   color: #777;
   font-size: 0.8em;
 }
 
-#page-wrap {
-  width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
-}
 
-#footer {
+#page-wrap-newblanktabtestaddonthing #footer {
   padding-top: 20px;
   font-family: Helvetica, Arial, Sans-serif;
   font-size: 13px;
@@ -98,7 +93,7 @@ a.clean {
   clear: both;
 }
 
-#no-results {
+#page-wrap-newblanktabtestaddonthing #no-results {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 13px;
   margin-left: auto;
