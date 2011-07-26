@@ -67,7 +67,15 @@ h1 {
   font-size: 15px;
   margin: 0px;
   padding-top:20px;
-  color:black;
+  color:#333;
+  text-decoration: none;
+}
+#header a{
+  color:#333;
+  text-decoration: none;
+}
+#header a:hover{
+  color: #777;
 }
 
 a.clean {
