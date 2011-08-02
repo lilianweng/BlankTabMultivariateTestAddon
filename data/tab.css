@@ -43,26 +43,16 @@
   padding-right: 10px;
 }
 
-#page-wrap-newblanktabtestaddonthing {
-  font-family: Helvetica, Arial, sans-serif;
-}
-
-#page-wrap-newblanktabtestaddonthing #header {
+#newblanktabtestaddon-header {
   margin-left: auto;
   margin-right: auto;
   width: 700px;
   text-align:left;
   color: #777;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
-#page-wrap-newblanktabtestaddonthing #content {
-  line-height: 1.6em;
-  margin-left: auto;
-  margin-right: auto;
-  width: 700px;
-}
-
-#page-wrap-newblanktabtestaddonthing h1 {
+#newblanktabtestaddon-header h1 {
   font-family: "Lucida Grande",Sans-Serif;
   font-size: 15px;
   margin: 0px;
@@ -70,21 +60,16 @@
   color:#333;
   text-decoration: none;
 }
-#page-wrap-newblanktabtestaddonthing #header a{
+#newblanktabtestaddon-header a{
   color:#333;
   text-decoration: none;
+  font-size:0.8em;
 }
-#page-wrap-newblanktabtestaddonthing #header a:hover{
+#newblanktabtestaddon-header a:hover{
   color: #777;
 }
 
-#page-wrap-newblanktabtestaddonthing a.clean {
-  color: #777;
-  font-size: 0.8em;
-}
-
-
-#page-wrap-newblanktabtestaddonthing #footer {
+#newblanktabtestaddon-footer {
   padding-top: 20px;
   font-family: Helvetica, Arial, Sans-serif;
   font-size: 13px;
@@ -93,7 +78,15 @@
   clear: both;
 }
 
-#page-wrap-newblanktabtestaddonthing #no-results {
+#newblanktabtestaddon-content {
+  line-height: 1.6em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#newblanktabtestaddon-no-results {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 13px;
   margin-left: auto;

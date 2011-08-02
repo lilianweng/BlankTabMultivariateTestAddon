@@ -5,13 +5,12 @@ document.documentElement.innerHTML =
   '<link rel="stylesheet" type="text/css" href="tab.css" />' +
   '</head>' +
   '<body>' +
-  '<div id="page-wrap-newblanktabtestaddonthing">' + 
-  '<div id="header">' +
-  '<h1 id="newtab-title"><a href="http://testpilot.mozillalabs.com/" target="_blank">Test Pilot</a> New Tab Test</h1>' +
-  '<a id="clean-blocked" class="clean" href="#">Clean All blocked sites</a>' + 
-  //' | <a id="clean-star" class="clean" href="#">Clean All starred sites</a>' +
+  '<div id="newblanktabtestaddon-header">' +
+  '<h1 id="newblanktabtestaddon-newtab-title">Test Pilot New Tab Test</h1>' +
+  '<a id="newblanktabtestaddon-clean-blocked" class="clean" href="#">Recover Removed Sites</a>' + 
+  //' | <a id="newblanktabtestaddon-clean-star" class="clean" href="#">Clean All starred sites</a>' +
   '</div>' +
-  '<div id="content" class="result-wrapper"></div>' +
-  '<div id="no-results" style="display:none;">No results</div>' + 
+  '<div id="newblanktabtestaddon-content" class="result-wrapper"></div>' +
+  '<div id="newblanktabtestaddon-no-results" style="display:none;">No results</div>' + 
   '</div>' + 
    '</body>';
